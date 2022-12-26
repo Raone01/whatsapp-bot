@@ -85,11 +85,11 @@ module.exports = {
     process.env.REMOVEBG_KEY === undefined ? "false" : process.env.REMOVEBG_KEY,
   WARN_COUNT: process.env.WARN_COUNT === undefined ? 3 : process.env.WARN_COUNT,
   WARN_MSG:
-    process.env.WARN_MSG === undefined ? "Ok bie" : process.env.WARN_MSG,
+    process.env.WARN_MSG === undefined ? "MC,Mc,mc,BC,Bc,bc,CHODO,Chodo,chodo,MADARCHOD,Madarchod,madarchod,BHENCHOD,Bhenchod,bhenchod,BETICHOD,Betichod,betichod,BSDK,Bsdk,bsdk,BHOSDA,Bhosda,bhosda,RANDI,Randi,randi,RANDWA,Randwa,randwa,LUND,Lund,lund,CHUT,Chut,chut,PORN,Porn,porn,SEX,Sex,sex,FUCK,Fuck,fuck,MOTHER FUCKER,Mother Fucker,mother fucker,FUCKER,Fucker,fucker,CHOD,G4ND, MILF,Milf,milf," : process.env.WARN_MSG,
   ANTIJID: process.env.ANTIJID === undefined ? "" : process.env.ANTIJID,
   STICKER_PACKNAME:
     process.env.STICKER_PACKNAME === undefined
-      ? "🥰,lyfe00011"
+      ? "₥₳ø฿ø₮ ฿ɏ ⚜️₳Đł₮Ɏ₳🔸"
       : process.env.STICKER_PACKNAME,
   BRAINSHOP:
     process.env.BRAINSHOP === undefined
