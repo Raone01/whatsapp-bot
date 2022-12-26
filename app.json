@@ -1,5 +1,5 @@
 {
-    "name": "Bottus",
+    "name": "₥₳ø฿ø₮ ฿ɏ ⚜️₳Đł₮Ɏ₳🔸",
     "description": " Whatsapp bot.",
     "keywords": [
         "whatsapp",
@@ -61,7 +61,7 @@
         "WARN_MSG": {
             "description": "Message send while kicking.",
             "required": false,
-            "value": "OK bie"
+            "value": "MC,Mc,mc,BC,Bc,bc,CHODO,Chodo,chodo,MADARCHOD,Madarchod,madarchod,BHENCHOD,Bhenchod,bhenchod,BETICHOD,Betichod,betichod,BSDK,Bsdk,bsdk,BHOSDA,Bhosda,bhosda,RANDI,Randi,randi,RANDWA,Randwa,randwa,LUND,Lund,lund,CHUT,Chut,chut,PORN,Porn,porn,SEX,Sex,sex,FUCK,Fuck,fuck,MOTHER FUCKER,Mother Fucker,mother fucker,FUCKER,Fucker,fucker,CHOD,G4ND, MILF,Milf,milf,"
         },
         "REMOVEBG_KEY": {
             "description": "key from remove.bg",
@@ -74,7 +74,7 @@
         },
         "STICKER_PACKNAME": {
             "description": "Sticker pack name,author",
-            "value": "🥰,lyfe00011"
+            "value": "₥₳ø฿ø₮ ฿ɏ ⚜️₳Đł₮Ɏ₳🔸"
         },
         "DISABLE_BOT": {
             "description": "Disable or Block bot in group/chat.Enter required chat jid separated by ,",
